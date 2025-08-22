@@ -43,6 +43,6 @@ Passion drives my work: whether performing on stage in front of hundreds, turnin
 
 # Contact
 
-📧 Email: [georgi.tasev12@gmail.com](georgi.tasev12@gmail.com) - LINK
-🔗 LinkedIn: [linkedin.com/in/georgi-tasev-0592a71ab](linkedin.com/in/georgi-tasev-0592a71ab) - LINK
-💻 GitHub: [github.com/GeorgiTasev12](github.com/GeorgiTasev12) - LINK
+📧 Email: [georgi.tasev12@gmail.com](georgi.tasev12@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/georgi-tasev-0592a71ab](linkedin.com/in/georgi-tasev-0592a71ab)
+💻 GitHub: [github.com/GeorgiTasev12](github.com/GeorgiTasev12)
