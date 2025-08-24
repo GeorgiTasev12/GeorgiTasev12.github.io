@@ -33,6 +33,7 @@ I began my journey with Android development (Kotlin + XML) before moving into Fl
 Passion drives my work: whether performing on stage in front of hundreds, turning ideas into working apps, or strengthening myself through calisthenics, I believe in persistence, creativity, and growth.
 
 **Skills:**
+
 • Flutter, Dart, Firebase, SQLite, Git\
 • Kotlin, Android SDK, Jetpack Compose
 
