@@ -24,7 +24,7 @@ An app designed to answer a common but overlooked problem: How many costumes doe
 • BloC (state management with custom events & state changes)
 • Animations via AnimatedOpacity and AnimatedSlide
 
-👉 [GitHub Repository](https://github.com/GeorgiTasev12/FolkRobe) - LINK
+👉 [GitHub Repository](https://github.com/GeorgiTasev12/FolkRobe)
 
 # About Me
 
@@ -43,6 +43,6 @@ Passion drives my work: whether performing on stage in front of hundreds, turnin
 
 # Contact
 
-📧 Email: [georgi.tasev12@gmail.com](georgi.tasev12@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/georgi-tasev-0592a71ab](linkedin.com/in/georgi-tasev-0592a71ab)
-💻 GitHub: [github.com/GeorgiTasev12](github.com/GeorgiTasev12)
+📧 Email: georgi.tasev12@gmail.com
+🔗 LinkedIn: [linkedin.com/in/georgi-tasev-0592a71ab](https://www.linkedin.com/in/georgi-tasev-0592a71ab/)
+💻 GitHub: [github.com/GeorgiTasev12](https://github.com/GeorgiTasev12)
