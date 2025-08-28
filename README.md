@@ -7,7 +7,7 @@ I’m a passionate learner who combines creativity with technology. Outside of t
 
 # Projects
 
-**FolkRobe – Costume Inventory Management for Ensembles and Community Groups***(Still in Development)*
+**FolkRobe – Costume Inventory Management for Ensembles and Community Groups***(Demo Available)*
 
 An app designed to answer a common but overlooked problem: How many costumes does an ensemble actually own, and who is currently using them?
 
