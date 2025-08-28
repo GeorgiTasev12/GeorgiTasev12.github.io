@@ -37,7 +37,8 @@ Passion drives my work: whether performing on stage in front of hundreds, turnin
 • Flutter, Dart, Firebase, SQLite, Git\
 • Kotlin, Android SDK, Jetpack Compose
 
-**Soft Skills:**\
+**Soft Skills:**
+
 • Problem-solving\
 • Teamwork\
 • Adaptability
