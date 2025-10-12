@@ -26,6 +26,25 @@ An app designed to answer a common but overlooked problem: How many costumes doe
 
 👉 [GitHub Repository](https://github.com/GeorgiTasev12/FolkRobe)
 
+**Scribble***(Released)*
+
+A lightweight and minimalistic notes app designed for simplicity and speed. Scribble allows users to effortlessly create, edit, and manage their notes — all stored securely offline.
+
+**Key features:** 
+
+• Create, update, and delete notes anytime.\
+• Organized note management with a clean, intuitive UI.\
+• Offline-first approach — all data is saved locally for reliability.
+
+**Tech stack:**
+
+• Jetpack Compose (Kotlin)\
+• Room SQL (lightweight in-app storage)\
+• Model View ViewModel (MVVM Architecture)\
+• Navigation Compose
+
+👉 [View Release](https://github.com/GeorgiTasev12/Scribble/releases/tag/v1.0.0)
+
 # About Me
 
 I began my journey with Android development (Kotlin + XML) before moving into Flutter for its cross-platform capabilities. Since then, I’ve been constantly improving my skills and applying them to meaningful projects.
