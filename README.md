@@ -44,7 +44,7 @@ A lightweight and minimalistic notes app designed for simplicity and speed. Scri
 • Kotlin Coroutines for background tasks  
 • Navigation Compose
 
-👉 [View Release](https://github.com/GeorgiTasev12/Scribble/releases/tag/v1.0.0)
+👉 [View Release](https://github.com/GeorgiTasev12/Scribble/releases)
 
 # About Me
 
